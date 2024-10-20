@@ -5,7 +5,7 @@
 # The optimization alternates between two sub-problems using the QAOA method.
 
 # Import necessary libraries and packages
-from qiskit_algorithms.utils import algorithm_globals
+from qiskit_algorithms.utils import algorithm_globals 
 from qiskit_algorithms import QAOA, NumPyMinimumEigensolver
 from qiskit_algorithms.optimizers import COBYLA
 from qiskit.primitives import Sampler
