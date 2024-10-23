@@ -1,4 +1,4 @@
-# QAOA-based-b-bit-MIMO-beamforming (under construction)
+# QAOA-based-1-bit-MIMO-beamforming (under construction)
 
 ## Overview
 This repository implements two approaches to optimizing beamforming in **Multiple-Input Multiple-Output (MIMO)** systems using the **Quantum Approximate Optimization Algorithm (QAOA)** with **Successive Convex Approximation (SCA)**. The goal of both implementations is to optimize the phases of the beamforming vectors to maximize the received signal power, where the phases are constrained to be either 0 or π.
